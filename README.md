@@ -39,7 +39,23 @@ This project was built using
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Page Screenshots.
+
+### About section
+
+[![Responsive Landing Screen Shot](images/app-screen-about.png)](https://borehelu.github.io/Product-Landing/)
+
+### Features section
+
+[![Responsive Landing Screen Shot](images/app-screen-features.png)](https://borehelu.github.io/Product-Landing/)
+
+### Contact section
+
+[![Responsive Landing Screen Shot](images/app-screen-contact.png)](https://borehelu.github.io/Product-Landing/)
+
+### Testimonial section
+
+[![Responsive Landing Screen Shot](images/app-screen-testimonials.png)](https://borehelu.github.io/Product-Landing/)
 
 _For more examples, please refer to the [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)_
 
