@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Responsive Landing Page
 
-[![Responsive Landing Screen Shot](images/hero.png)](https://borehelu.github.io/Product-Landing/)
+[![Responsive Landing Screen Shot](images/app-screen-hero.png)](https://borehelu.github.io/Product-Landing/)
 
 #### A complete product landing page implemented using HTML5 and CSS3, 22 Apr 2021
 #### By **Helu Bore**
